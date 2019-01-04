@@ -2,12 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Gurutechgood/Good-vide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Social media
 
-### Jekyll Themes
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kindly follow my social media page [FB](https://www.facebook.com/guru.prakash.5243817) or [Youtube channel](https://www.youtube.com/channel/UCWXOlnYVARs66Ijb4SXoziw)
