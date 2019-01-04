@@ -1,6 +1,26 @@
 ## Welcome to Good-vide Pages
 
-You can use the [editor on GitHub](https://github.com/Gurutechgood/Good-vide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+இனிய பயணம் மகிழ்வுடன். 
+
+ 
+
+It always seems impossible until it's done.
+
+
+The past cannot be changed.
+
+
+Change your life today.
+
+
+
+Two things will define you One S you determination when you have nothing your attitude when you have everything
+Now
+
+
+2019  = 12 month 8760 hours 525600 minutes 3153600 seconds =  use it productively 
+
 
 
 ### Social media
